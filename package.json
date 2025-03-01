@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/KavishkaSashmitha/testNode/issues"
   },
-  "homepage": "https://github.com/KavishkaSashmitha/testNode#readme"
-}
+
+  "homepage": "https://github.com/KavishkaSashmitha/testNode#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+
